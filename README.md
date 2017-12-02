@@ -3,7 +3,7 @@
 IARL Extras
 ==========================
 
-![IARL](https://github.com/zach-morris/plugin.program.iarl/blob/master/fanart.jpg)
+![IARL_Extras](https://imgur.com/6CEu2pZ.jpg)
 
 IARL Extras is a repository of game list dat files to be used with IARL.
 
