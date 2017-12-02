@@ -36,6 +36,6 @@ for xml_file in xml_files:
 			iarl_extras_text = iarl_extras_text+iarl_extras_entry.replace('xxheader_textxx',header_text).replace('xxxml_filenamexx',str(os.path.split(xml_file)[-1]))
 
 iarl_extras_text = iarl_extras_text+'</datafile>'
-iarl_extras_text = iarl_extras_text.replace('\t\t\t','\t\t').replace('\t\t</extrafile>','\t</extrafile>').replace('\t\t\t<emu','\t\t<emu')
+iarl_extras_text = iarl_extras_text.replace('\t\t\t','\t\t').replace('\t\t</extrafile>','\t</extrafile>').replace('\t\t\t<emu_','\t\t<emu_')
 with open(os.path.join(base_dir,'iarl_extras.xml'), 'w') as fout:
 	fout.write(iarl_extras_text)
