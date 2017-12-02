@@ -1,5 +1,6 @@
 <datafile>
 	<extrafile>
+		<emu_extras_filename>Apple2GS_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Apple 2GS - Full Archive</emu_name>
 		<emu_description>Apple 2GS</emu_description>
 		<emu_version>12022017</emu_version>
@@ -12,6 +13,7 @@
 		<emu_trailer>6gtjbi3-oE8</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Atari_2600_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Atari 2600 - Full Archive</emu_name>
 		<emu_description>Atari 2600</emu_description>
 		<emu_version>12022017</emu_version>
@@ -24,6 +26,7 @@
 		<emu_trailer>913xrM9FYpI</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Atari_ST_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Atari ST - Full Archive</emu_name>
 		<emu_description>Atari ST</emu_description>
 		<emu_version>12022017</emu_version>
@@ -36,6 +39,7 @@
 		<emu_trailer>zUD3u8c5qkI</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>C64_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Commodore 64 - Full Archive</emu_name>
 		<emu_description>Commodore 64</emu_description>
 		<emu_version>12022017</emu_version>
@@ -48,6 +52,7 @@
 		<emu_trailer>D_f3uIzEIxo</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>CDI_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Phillips CD-i - Full Archive</emu_name>
 		<emu_description>CDI</emu_description>
 		<emu_version>12022017</emu_version>
@@ -60,6 +65,7 @@
 		<emu_trailer>9ZIbnZuqUuo</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>FBA_ZachMorris_Family_Friendly.xml</emu_extras_filename>
 		<emu_name>Final Burn Alpha - Family Friendly</emu_name>
 		<emu_description>Final Burn Alpha</emu_description>
 		<emu_version>08082017</emu_version>
@@ -72,6 +78,7 @@
 		<emu_trailer>2U3k-ks3bZw</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>FBA_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Final Burn Alpha - Full Archive</emu_name>
 		<emu_description>Final Burn Alpha</emu_description>
 		<emu_version>12022017</emu_version>
@@ -84,6 +91,7 @@
 		<emu_trailer>2U3k-ks3bZw</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Game_Gear_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Game Gear - Full Archive</emu_name>
 		<emu_description>Game Gear</emu_description>
 		<emu_version>12022017</emu_version>
@@ -96,6 +104,7 @@
 		<emu_trailer>2LcPG0mkyfM</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>GB_Classic_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Game Boy Classic - Full Archive</emu_name>
 		<emu_description>Game Boy Classic</emu_description>
 		<emu_version>12022017</emu_version>
@@ -108,6 +117,7 @@
 		<emu_trailer>yB7kcH3Xv6M</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>GBA_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Game Boy Advance - Full Archive</emu_name>
 		<emu_description>Game Boy Advance</emu_description>
 		<emu_version>12022017</emu_version>
@@ -120,6 +130,7 @@
 		<emu_trailer>tE5b7quzbsc</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>GBC_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Game Boy Color - Full Archive</emu_name>
 		<emu_description>Game Boy Color</emu_description>
 		<emu_version>12022017</emu_version>
@@ -132,6 +143,7 @@
 		<emu_trailer>OIkM6Lfq-1w</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Genesis_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Sega Genesis - Full Archive</emu_name>
 		<emu_description>No-Intro_Genesis</emu_description>
 		<emu_version>12022017</emu_version>
@@ -144,6 +156,7 @@
 		<emu_trailer>ALG9JQGrECA</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MAME_2003_Family_Friendly.xml</emu_extras_filename>
 		<emu_name>MAME - 2003 - Family Friendly</emu_name>
 		<emu_description>MAME</emu_description>
 		<emu_version>0.078</emu_version>
@@ -156,6 +169,7 @@
 		<emu_trailer>Ean2lGPKj_Y</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MAME_2003_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>MAME - 2003 - Full Archive</emu_name>
 		<emu_description>MAME</emu_description>
 		<emu_version>0.078</emu_version>
@@ -168,6 +182,7 @@
 		<emu_trailer>Ean2lGPKj_Y</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MAME_2014_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>MAME - 2014 - Full Archive</emu_name>
 		<emu_description>MAME</emu_description>
 		<emu_version>0.159</emu_version>
@@ -180,6 +195,7 @@
 		<emu_trailer>Ean2lGPKj_Y</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MAME_Family_Friendly.xml</emu_extras_filename>
 		<emu_name>MAME - Multiple Arcade Machine Emulator - Family Friendly</emu_name>
 		<emu_description>MAME 0.185</emu_description>
 		<emu_version>1222017</emu_version>
@@ -192,6 +208,7 @@
 		<emu_trailer>tN7-LNHbAcY</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MAME_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>MAME - Multiple Arcade Machine Emulator - Full Archive</emu_name>
 		<emu_description>MAME 0.185</emu_description>
 		<emu_version>0.185</emu_version>
@@ -204,6 +221,7 @@
 		<emu_trailer>tN7-LNHbAcY</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Master_System_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Master System - Full Archive</emu_name>
 		<emu_description>Master System</emu_description>
 		<emu_version>12022017</emu_version>
@@ -216,6 +234,7 @@
 		<emu_trailer>2ZQjiHKhQg0</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MSX1_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>MSX1 - Full Archive</emu_name>
 		<emu_description>MSX</emu_description>
 		<emu_version>12022017</emu_version>
@@ -228,6 +247,7 @@
 		<emu_trailer>5RLDGc4Pmhc</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>MSX2_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>MSX2 - Full Archive</emu_name>
 		<emu_description>MSX</emu_description>
 		<emu_version>12022017</emu_version>
@@ -240,6 +260,7 @@
 		<emu_trailer>TOhcdKBlUzI</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>N64_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Nintendo 64 - N64 - Full Archive</emu_name>
 		<emu_description>No-Intro N64</emu_description>
 		<emu_version>12022017</emu_version>
@@ -253,6 +274,7 @@
 		<emu_trailer>VcwDHrhqHP0</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>NeoGeo_ZachMorris.xml</emu_extras_filename>
 		<emu_name>Neo Geo</emu_name>
 		<emu_description>Neo Geo</emu_description>
 		<emu_version>12217</emu_version>
@@ -265,6 +287,7 @@
 		<emu_trailer>uCT5Q49O_x8</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>NES_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Nintendo Entertainment System - NES - Full Archive</emu_name>
 		<emu_description>No-Intro_NES</emu_description>
 		<emu_version>12022017</emu_version>
@@ -277,6 +300,7 @@
 		<emu_trailer>XSZ58GdFjrs</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>NGPC_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Neo Geo Pocket Color - NGPC - Full Archive</emu_name>
 		<emu_description>No-Intro_NES</emu_description>
 		<emu_version>12022017</emu_version>
@@ -289,6 +313,7 @@
 		<emu_trailer>dUHYNmNrqoY</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>PS1_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>PlayStation - Full Archive</emu_name>
 		<emu_description>PlayStation</emu_description>
 		<emu_version>12022017</emu_version>
@@ -301,6 +326,7 @@
 		<emu_trailer>dXSTAj9tlhE</emu_trailer
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>SCUMMVM_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Scumm VM - Full Archive</emu_name>
 		<emu_description>Scumm VM</emu_description>
 		<emu_version>12022017</emu_version>
@@ -313,6 +339,7 @@
 		<emu_trailer>KWstXVvaiR4</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Sega_Dreamcast_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Sega Dreamcast - Full Archive</emu_name>
 		<emu_description>Sega Dreamcast</emu_description>
 		<emu_version>12022017</emu_version>
@@ -325,6 +352,7 @@
 		<emu_trailer>G3k0yJB6IVE</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Sega_Saturn_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Sega Saturn - Full Archive</emu_name>
 		<emu_description>Sega Saturn</emu_description>
 		<emu_version>12022017</emu_version>
@@ -337,6 +365,7 @@
 		<emu_trailer>YNEe04UwJ6Q</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Sega_SG1000_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Sega SG-1000 - Full Archive</emu_name>
 		<emu_description>Sega SG-1000</emu_description>
 		<emu_version>12022017</emu_version>
@@ -349,6 +378,7 @@
 		<emu_trailer>SVYDqwI3ND4</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>SFC_ZachMorris.xml</emu_extras_filename>
 		<emu_name>Super Famicom - SFC</emu_name>
 		<emu_description>No-Intro_SFC</emu_description>
 		<emu_version>12022017</emu_version>
@@ -361,6 +391,7 @@
 		<emu_trailer>AqhPESyVss8</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>SNES_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Super Nintendo Entertainment System - SNES - Full Archive</emu_name>
 		<emu_description>No-Intro_SNES</emu_description>
 		<emu_version>12022017</emu_version>
@@ -373,6 +404,7 @@
 		<emu_trailer>AqhPESyVss8</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>SNES_ZachMorris_USA_Only.xml</emu_extras_filename>
 		<emu_name>Super Nintendo Entertainment System - SNES - USA Only</emu_name>
 		<emu_description>No-Intro_SNES</emu_description>
 		<emu_version>08082017</emu_version>
@@ -385,6 +417,7 @@
 		<emu_trailer>AqhPESyVss8</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>TG16_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>NEC - PC Engine - TurboGrafx 16 - Full Archive</emu_name>
 		<emu_description>No-Intro_TG16</emu_description>
 		<emu_version>12022017</emu_version>
@@ -397,6 +430,7 @@
 		<emu_trailer>Xn_xaQ5d5gY</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>x68000_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>x68000 - Full Archive</emu_name>
 		<emu_description>x68000</emu_description>
 		<emu_version>12022017</emu_version>
@@ -409,6 +443,7 @@
 		<emu_trailer>hlgEY7ZX30I</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>ZX_Spectrum_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>ZX Spectrum - Full Archive</emu_name>
 		<emu_description>ZX Spectrum</emu_description>
 		<emu_version>12022017</emu_version>
