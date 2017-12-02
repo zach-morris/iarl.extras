@@ -1,18 +1,9 @@
 <datafile>
 	<extrafile>
 		<emu_name>Apple 2GS - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Apple 2GS</emu_description>
-		<emu_category>Apple</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.tosecdev.org/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>convert_mame_softlist('apple2gs')</emu_postdlaction>
 		<emu_comment>Apple 2GS List by Zach Morris.  This is the FULL UNFILTERED list from the archive.[CR]The Apple IIgs is the fifth and most powerful model in the Apple II series of personal computers produced by Apple Computer. The "GS" in the name stands for Graphics and Sound, referring to its enhanced multimedia capabilities, especially its state-of-the-art sound and music synthesis, which greatly surpassed previous models of the line and most contemporary machines like the Macintosh and IBM PC.[CR]The machine is a radical departure from any previous Apple II, with its true 16-bit architecture, increased processing speed, direct access to megabytes of RAM, wavetable synthesis music synthesizer, graphical user interface, and mouse. While still maintaining full backwards compatibility with earlier Apple II models, it blended the Apple II and aspects of Macintosh technology into one. Keeping with Apple's *Apple II Forever* slogan of the time, the IIgs set forth a promising future and evolutionary advancement of the Apple II line, but Apple paid it relatively little attention as the company increasingly focused on the Macintosh platform.[CR]Developer:  Apple[CR]Manufacturer:  Apple[CR]CPU:  65C816[CR]Memory:  256 kB or 1 MB (expandable up to 8 MB)[CR]Graphics:  VGC 12-bpp palette, 320×200, 640×200[CR]Sound:  Ensoniq ES5503 DOC 8-bit wavetable synthesis sound chip, 32-channels, stereo[CR]Media:  Floppy</emu_comment>
 		<emu_thumb>https://i.imgur.com/TO6h5bZ.png</emu_thumb>
 		<emu_banner>https://i.imgur.com/XhdwvU7.jpg</emu_banner>
@@ -22,18 +13,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Atari 2600 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Atari 2600</emu_description>
-		<emu_category>Atari</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Jason Scott</emu_author>
-		<emu_homepage>https://archive.org/details/atari_2600_library</emu_homepage>
-		<emu_baseurl>https://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_and_rename_file</emu_postdlaction>
 		<emu_comment>MESS/MAME Atari 2600 List by Zach Morris.  This list is the FULL UNFILTERED LIST from the archive.[CR][CR]The Atari 2600, or Atari VCS before 1982, is a home video game console released on September 11, 1977 by Atari, Inc. It is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code, a format first used with the Fairchild Channel F game console.[CR]The console was originally sold as the Atari VCS, which stood for Video Computer System. Following the release of the Atari 5200 in 1982, the VCS was renamed to the "Atari 2600", after the unit's Atari part number, CX2600. The 2600 was typically bundled with two joystick controllers, a conjoined pair of paddle controllers, and a game cartridge, initially Combat, and later Pac-Man.[CR]Developer:  Atari[CR]Manufacturer:  Atari[CR]CPU:  MOS Technology 6507[CR]Memory:  128 bytes RAM[CR]Graphics:  128-color palette[CR]Sound:  Television Interface Adaptor[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/kPzvirH.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/4uKILI7.png</emu_banner>
@@ -43,18 +25,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Atari ST - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Atari ST</emu_description>
-		<emu_category>Atari</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>Atari ST list by Zach Morris.  This is the FULL UNFILTERED list from the TOSEC archive for STX and ST formatted game files.[CR]The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The ST enjoyed success in gaming due to low cost, fast performance and colorful graphics.[CR]An early real-time 3D role-playing video game, Dungeon Master, was first developed and released on the ST, and was the best-selling software ever produced for the platform. Simulation games like Falcon and Flight Simulator II made use of the enhanced graphics found in the ST machines, as did many arcade ports. One game, MIDI Maze, uses the MIDI ports to connect up to 16 machines for interactive networked play. Games simultaneously released on the Amiga that had identical graphics and sound were often accused by video game magazines of simply being ST ports. The critically acclaimed game Another World was originally released for ST and Amiga in 1991 with the Polygonal engine developed on the ST and the rotoscoped animations created on the Amiga (the two games are very similar on both systems).[CR]Developer:  Atari Corporation[CR]Manufacturer:  Atari Corporation[CR]CPU:  Motorola 680x0 @ 8 MHz and higher[CR]Memory:  512 Kibibytes to 4 Mebibytes[CR]Media:  Floppy</emu_comment>
 		<emu_thumb>https://i.imgur.com/0n2XKYN.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/PGKZkkB.jpg</emu_banner>
@@ -64,18 +37,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Commodore 64 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Commodore 64</emu_description>
-		<emu_category>Commodore</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.gb64.org/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>Commodore 64 List for VICE by Zach Morris.  This is the FULL UNFILTERED list from the archive.[CR]The Commodore 64 is an 8-bit home computer introduced by Commodore International in January 1982. Volume production started in the spring of 1982, with machines being released on to the market in August at a price of US$595. Preceded by the Commodore VIC-20 and Commodore PET machines, the C64 features 64 kilobytes (65,536 bytes) of RAM, hence the name, and had favourable sound and graphical specifications when compared to well-known contemporary systems such as the Apple II, particularly as the price was well below that demanded by Apple. It is commonly known as the C64 or C=64 (after the graphic logo on the case) and occasionally as the CBM 64 (for Commodore Business Machines), or VIC-64[CR]Developer:  Commodore International[CR]Manufacturer:  Commodore International[CR]CPU:  MOS Technology 6510[CR]Memory:  64 kB RAM + 20 kB ROM[CR]Graphics:  MOS Technology VIC-II[CR]Sound:  MOS Technology 6581/8580 SID (Sound Interface Device)[CR]Display:  320x200[CR]Media:  Cartridge[CR]Max Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/lHb8nE8.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/CTiJhFX.jpg</emu_banner>
@@ -85,18 +49,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Phillips CD-i - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>CDI</emu_description>
-		<emu_category>Phillips</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>convert_mess2014_softlist_dummy_file('cdi')</emu_postdlaction>
 		<emu_comment>Phillips CD-i List by Zach Morris.  Based on the MAME / MESS 0.149 romset.  This list is FULL UNFILTERED list from the archive.[CR][CR]The Philips CD-i (Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics.[CR]This category of device was created to provide more functionality than an audio CD player or game console, but at a lower price than a personal computer with CD-ROM drive at the time. The cost savings were due to the lack of a hard drive, floppy drive, keyboard, mouse, monitor (a standard television was used), and less operating system software. In addition to games, educational and multimedia reference titles were produced, such as interactive encyclopedias, museum tours, etc. before public Internet access was widespread. Competitors included the Tandy VIS and Commodore CDTV. CD-i also refers to the multimedia Compact Disc standard used by the CD-i console, also known as Green Book, which was developed by Philips and Sony. Work on the CD-i began in 1984 and it was first publicly announced in 1986.[CR]Manufacturer: Philips[CR]CPU: Philips SCC68070[CR]Memory: 1 MB of main RAM[CR]Graphics: SCC66470, later MCD 212[CR]Sound: MCD 221 16-bit stereo sound[CR]Display: 384×280 to 768×560[CR]Media: Disc[CR]Max Controllers:  1</emu_comment>
 		<emu_thumb>https://i.imgur.com/ATEnUbj.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/0jYAh05.jpg</emu_banner>
@@ -106,18 +61,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Final Burn Alpha - Family Friendly</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Final Burn Alpha</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>08082017</emu_version>
 		<emu_date>08/08/2017</emu_date>
-		<emu_author>FBA</emu_author>
-		<emu_homepage>http://www.fbalpha.com/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>Internet Archive Final Burn Alpha 0.2.97.42 Listing by Zach Morris.  This list is filtered to remove all clones and mature titles.[CR]Final Burn Alpha is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the final burn team and originated from FinalBurn by Dave.</emu_comment>
 		<emu_thumb>https://i.imgur.com/vMusn2o.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/kogFp5c.jpg</emu_banner>
@@ -127,18 +73,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Final Burn Alpha - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Final Burn Alpha</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>FBA</emu_author>
-		<emu_homepage>http://www.fbalpha.com/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>Internet Archive Final Burn Alpha 0.2.97.40 Listing by Zach Morris.  This list is FULL UNFILTERED list from the archive.[CR]Final Burn Alpha is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the final burn team and originated from FinalBurn by Dave.</emu_comment>
 		<emu_thumb>http://i.imgur.com/vMusn2o.jpg</emu_thumb>
 		<emu_banner>http://i.imgur.com/kogFp5c.jpg</emu_banner>
@@ -148,18 +85,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Game Gear - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Game Gear</emu_description>
-		<emu_category>Sega</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Jason Scott</emu_author>
-		<emu_homepage>https://archive.org/details/gamegear_library</emu_homepage>
-		<emu_baseurl>https://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Game Gear List by Zach Morris.  This list is the FULL UNFILTERED list from the archive.[CR][CR]The Sega Game Gear is an 8-bit handheld game console released by Sega. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx and NEC's TurboExpress. The handheld shares much of its hardware with the Sega Master System and is able to play its own titles as well as those of the Master System, the latter being made possible by the use of an adapter. Containing a full-color backlit screen with a landscape format, Sega positioned the Game Gear as a technologically superior handheld to the Game Boy.[CR]Developer:  Sega[CR]Manufacturer:  Sega[CR]Media:  ROM cartridge[CR]CPU:  Zilog Z80 clocked at 3.5MHz[CR]Memory:  8kB RAM, 16kB VRAM[CR]Display:  160x144 pixel resolution, 4096-color palette[CR]Sound:  Texas Instruments SN76489[CR]Dimensions:  209 x 111 x 37 mm</emu_comment>
 		<emu_thumb>https://i.imgur.com/vEweaZ0.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/n8QjsSM.png</emu_banner>
@@ -169,18 +97,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Game Boy Classic - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Game Boy Classic</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Game Boy Classic (GB) List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Game Boy, is an 8-bit handheld video game device developed and manufactured by Nintendo. It was released in 1989. It is the first handheld console in the Game Boy line, and was created by Gunpei Yokoi and Nintendo Research and Development.  The same staff who had designed the Game and Watch series as well as several popular games for the Nintendo Entertainment System.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  Sharp LR35902[CR]Memory:  8KB[CR]Graphics:  8 kB internal[CR]Sound:  2 square wave generators, 1 PCM 4-bit wave sample channel[CR]Display:  160 × 144[CR]Media:  Cartridge[CR]Max Controllers:  1</emu_comment>
 		<emu_thumb>https://i.imgur.com/y7erM2K.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/7EPQ3zK.png</emu_banner>
@@ -190,18 +109,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Game Boy Advance - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Game Boy Advance</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Game Boy Advance (GBA) List by Zach Morris.  This list is the FULL UNFILTERED list of games available from the archive.[CR][CR]The Game Boy Advance, often shortened to GBA, is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo. It is the successor to the Game Boy Color.  Backward compatibility for Game Boy and Game Boy Color games is provided by an 4/8 MHz Z80 coprocessor, while a link port at the top of the unit allows it to be connected to other devices via use of a Nintendo Game Link cable or GameCube link cable. When playing Game Boy or Game Boy Color games on the Game Boy Advance, the L and R buttons can be used to toggle between a stretched widescreen format (240×144) and the original screen ratio of the Game Boy (160×144). Game Boy games can be played using the same selectable color palettes as on the Game Boy Color.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]Media:  ROM cartridge[CR]CPU:  16.78 MHz ARM7TDMI[CR]Graphics:  Custom 2D core[CR]Memory:  32 kilobyte + 96 kilobyte VRAM (internal to the CPU), 256 kilobyte DRAM (outside the CPU)[CR]Resolution: 	240 × 160 pixels (3:2 aspect ratio)[CR]Sound: 	Dual 8-bit DAC for stereo sound (called Direct Sound)</emu_comment>
 		<emu_thumb>https://i.imgur.com/oVD1x0z.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/FLmLHdW.jpg</emu_banner>
@@ -211,18 +121,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Game Boy Color - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Game Boy Color</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Game Boy Color (GBC) List by Zach Morris.  This list is the FULL UNFILTERED list of games available from the archive.[CR][CR]The Game Boy Color, referred to as GBC, was a handheld game console manufactured by Nintendo. It was released on October 21, 1998. It is the successor of the Game Boy.[CR]The Game Boy Color, as suggested by the name, features a color screen. It is slightly thicker and taller than the Game Boy Light. As with the original Game Boy, it has an 8-bit processor and the custom Zilog Z80 CPU.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  Zilog Z80[CR]Memory:  32 KB[CR]Sound:  2 square wave channels, 1 wave channel, 1 noise channel[CR]Display:  160 x 144[CR]Media:  Cartridge[CR]Max Controllers:  1</emu_comment>
 		<emu_thumb>https://i.imgur.com/dBP7cPR.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/IHaMoGf.jpg</emu_banner>
@@ -232,18 +133,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Sega Genesis - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_Genesis</emu_description>
-		<emu_category>Sega</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Genesis List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Sega Genesis is a fourth-generation video game console developed and produced by Sega. It was originally released in Japan in 1988 as Mega Drive, then in North America in 1989 as Sega Genesis, and in Europe, Australia and other PAL regions in 1990 as Mega Drive. The reason for the two names is that Sega was unable to secure legal rights to the Mega Drive name in North America. The Sega Genesis is Sega's third console and the successor to the Sega Master System with which it has backward compatibility. The controversy over games like Mortal Kombat in the United States forced Sega to create the first content rating system for video games, the Videogame Rating Council, rather than have the games heavily censored. The rating system allowed Sega to ship games with little to no censorship and gave it a competive edge when the same game was released by Nintendo. The success of those games eventually forced Nintendo to join its rating system.[CR]Developer:  Sega[CR]Manufacturer:  Sega[CR]CPU:  Motorola 68000[CR]Memory:  64K work RAM (68000), 64K video RAM, 8K work RAM (Z80)[CR]Graphics:  Yamaha YM7101[CR]Sound:  Yamaha YM2612 5 channel FM and 1 channel FM/PCM, Texas Instruments SN76489 4 channel PSG (Programmable Sound Generator)[CR]Display:  320×448[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/psabsbe.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/OjCTXmF.png</emu_banner>
@@ -253,18 +145,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>MAME - 2003 - Family Friendly</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>MAME</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>0.078</emu_version>
 		<emu_date>08/11/2016</emu_date>
-		<emu_author>AntoPISA</emu_author>
-		<emu_homepage>http://www.progettosnaps.net</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>MAME 2003 list (MAME version 0.078).  Edited by Zach Morris, removed all adult games in addition to clones/mechanical/non-working/fruit/casino/etc (leaving just the stuff most people would actually want to play).[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".  Joystiq has listed MAME as an application that every gamer should have.</emu_comment>
 		<emu_thumb>https://i.imgur.com/hwhaSAi.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/3CVABrg.jpg</emu_banner>
@@ -274,18 +157,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>MAME - 2003 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>MAME</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>0.078</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>AntoPISA</emu_author>
-		<emu_homepage>http://www.progettosnaps.net</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>MAME 2003 list (MAME version 0.078).  This is the FULL UNFILTERED list available from the archive.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".  Joystiq has listed MAME as an application that every gamer should have.</emu_comment>
 		<emu_thumb>http://i.imgur.com/hwhaSAi.jpg</emu_thumb>
 		<emu_banner>http://i.imgur.com/3CVABrg.jpg</emu_banner>
@@ -295,18 +169,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>MAME - 2014 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>MAME</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>0.159</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>AntoPISA</emu_author>
-		<emu_homepage>http://www.progettosnaps.net</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>MAME 2014 list (MAME version 0.159).  This is the FULL UNFILTERED list provided by the archive.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".  Joystiq has listed MAME as an application that every gamer should have.</emu_comment>
 		<emu_thumb>http://imgur.com/lVj82qv.jpg</emu_thumb>
 		<emu_banner>http://imgur.com/O5HoPM7.jpg</emu_banner>
@@ -316,18 +181,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>MAME - Multiple Arcade Machine Emulator - Family Friendly</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>MAME 0.185</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>1222017</emu_version>
 		<emu_date>12/2/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.progettosnaps.net</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is a filtered set from the 0.185 set, removing all adult games in addition to clones, mechanical devices, bioses, etc. along with unwanted games like mahjong and the like.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
 		<emu_thumb>https://i.imgur.com/meL2vpM.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/r89qyGQ.jpg</emu_banner>
@@ -336,40 +192,22 @@
 		<emu_trailer>tN7-LNHbAcY</emu_trailer>
 	</extrafile>
 	<extrafile>
-			<emu_name>MAME - Multiple Arcade Machine Emulator - Full Archive</emu_name>
-			<emu_parser>NoIntro_parser.xml</emu_parser>
-			<emu_description>MAME 0.185</emu_description>
-			<emu_category>Arcade</emu_category>
-			<emu_version>0.185</emu_version>
-			<emu_date>12/02/2017</emu_date>
-			<emu_author>Zach Morris</emu_author>
-			<emu_homepage>http://www.progettosnaps.net</emu_homepage>
-			<emu_baseurl>http://archive.org/download/</emu_baseurl>
-			<emu_launcher>external</emu_launcher>
-			<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-			<emu_downloadpath>default</emu_downloadpath>
-			<emu_postdlaction>none</emu_postdlaction>
-			<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is the FULL UNFILTERED 0.185 set from the archive.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
-			<emu_thumb>https://i.imgur.com/meL2vpM.jpg</emu_thumb>
-			<emu_banner>https://i.imgur.com/r89qyGQ.jpg</emu_banner>
-			<emu_fanart>https://i.imgur.com/qxeGXby.jpg</emu_fanart>
-			<emu_logo>https://i.imgur.com/oH4rRaQ.png</emu_logo>
-			<emu_trailer>tN7-LNHbAcY</emu_trailer>
+		<emu_name>MAME - Multiple Arcade Machine Emulator - Full Archive</emu_name>
+		<emu_description>MAME 0.185</emu_description>
+		<emu_version>0.185</emu_version>
+		<emu_date>12/02/2017</emu_date>
+		<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is the FULL UNFILTERED 0.185 set from the archive.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
+		<emu_thumb>https://i.imgur.com/meL2vpM.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/r89qyGQ.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/qxeGXby.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/oH4rRaQ.png</emu_logo>
+		<emu_trailer>tN7-LNHbAcY</emu_trailer>
 	</extrafile>
 	<extrafile>
 		<emu_name>Master System - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Master System</emu_description>
-		<emu_category>Sega</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Jason Scott</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Sega Master System List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Sega Master System is a third-generation home video game console that was manufactured by Sega. It was originally released in 1985 as the Sega Mark III in Japan. After being redesigned prior to its North American launch, the console was renamed Master System.  Both the Mark III and the original Master System models could play with both cartridges and the credit card-sized "Sega Cards", which retailed at lower prices than cartridges but had lower storage capacity.  The Master System also featured accessories such as a light gun and 3D glasses which were designed to work with a range of specially coded games.[CR]Developer:  Sega[CR]Manufacturer:  Sega[CR]Media:  ROM cartridge, Sega Card[CR]CPU:  Z80 running at 4 MHz[CR]Memory:  64 kbits (8 KB)[CR]Sound:  Texas Instruments SN76489[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/F6sMacD.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/6lUz4P6.png</emu_banner>
@@ -379,18 +217,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>MSX1 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>MSX</emu_description>
-		<emu_category>PC</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>https://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>MSX1 No Intro List by Zach Morris.  This list is the FULL UNFILTERED LIST from the archive.[CR]MSX1 is the first in 4 generations of computer based systems in the MSX line.[CR]The MSX is a standardized home computer architecture.  Despite Microsoft's involvement, the MSX-based machines were seldom released in the United States, but were popular in Asian countries like Japan and South Korea, South American countries like Brazil and Chile, and in the European market in countries like the Netherlands, France, Spain and Finland. To a lesser extent, the MSX platform was also popular in the former Soviet Union and Kuwait.[CR]Before the appearance and great success of Nintendo's Family Computer, MSX was the platform for which major Japanese game studios, such as Konami and Hudson Soft, produced video game titles. The Metal Gear series, for example, was originally written for MSX hardware.[CR]Developer:  ASCII Corporation[CR]Manufacturer :  Microsoft[CR]CPU:  Zilog Z80A running at 3.58 MHz[CR]Memory: 32 kB ROM / 8 kb RAM[CR]Graphics:  Yamaha V9938 128 KB[CR]Sound:  Yamaha YM2149[CR]Display:  512×212 (16 colors)[CR]Media:  Cartridge and Floppy</emu_comment>
 		<emu_thumb>https://i.imgur.com/Bs90JeL.jpg</emu_thumb>
 		<emu_banner>http://i.imgur.com/1B0GXoQ.jpg</emu_banner>
@@ -400,18 +229,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>MSX2 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>MSX</emu_description>
-		<emu_category>PC</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>https://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>MSX2 No Intro List by Zach Morris.  This list is the FULL UNFILTERED LIST from the archive.[CR]MSX2 is the 2nd in 4 generations of computer based systems in the MSX line.[CR]The MSX is a standardized home computer architecture.  Despite Microsoft's involvement, the MSX-based machines were seldom released in the United States, but were popular in Asian countries like Japan and South Korea, South American countries like Brazil and Chile, and in the European market in countries like the Netherlands, France, Spain and Finland. To a lesser extent, the MSX platform was also popular in the former Soviet Union and Kuwait.[CR]Before the appearance and great success of Nintendo's Family Computer, MSX was the platform for which major Japanese game studios, such as Konami and Hudson Soft, produced video game titles. The Metal Gear series, for example, was originally written for MSX hardware.[CR]Developer:  ASCII Corporation[CR]Manufacturer :  Microsoft[CR]CPU:  Zilog Z80A running at 3.58 MHz[CR]Memory: 32 kB ROM / 8 kb RAM[CR]Graphics:  Yamaha V9938 128 KB[CR]Sound:  Yamaha YM2149[CR]Display:  512×212 (16 colors)[CR]Media:  Cartridge and Floppy</emu_comment>
 		<emu_thumb>https://i.imgur.com/TpZm8xQ.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/Djv0i32.jpg</emu_banner>
@@ -421,18 +241,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Nintendo 64 - N64 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro N64</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro N64 List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]Often referred to as N64, was Nintendo′s third home video game console for the international market. Named for its 64-bit CPU, it was released in June 1996 in Japan, September 1996 in North America, March 1997 in Europe and Australia, September 1997 in France and December 1997 in Brazil. It is Nintendo′s last home console to use ROM cartridges to store games (Nintendo switched to a MiniDVD-based format for the successor GameCube); handhelds in the Game Boy line, however, continued to use Game Paks. It was discontinued in 2001 in Japan, North America and PAL regions by the launch of Nintendo′s GameCube.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  93.75 MHz NEC VR4300[CR]Memory:  4MB RDRAM[CR]Graphics:  62.5 MHz SGI RCP[CR]Sound:  48 kHz with 16-bit audio[CR]Display:  480i[CR]Media:  Cartridge[CR]Max. Controllers:  4
 		</emu_comment>
 		<emu_thumb>https://i.imgur.com/V8zBv5t.jpg</emu_thumb>
@@ -443,18 +254,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Neo Geo</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Neo Geo</emu_description>
-		<emu_category>Arcade</emu_category>
 		<emu_version>12217</emu_version>
 		<emu_date>12/2/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>Internet Archive Neo Geo game list is a filtered list from the Final Burn Alpha 0.2.97.42 Listing by Zach Morris.  This list includes all Neo Geo titles minus demos, etc.[CR]The NeoGeo is a cartridge-based arcade and home video game system released on July 1, 1991 by Japanese game company SNK. Being in the Fourth generation of Gaming, it was the first console in the former Neo Geo family, which only lived through the 1990s.[CR]The hardware featured comparatively colourful 2D graphics. The MVS (Multi Video System), as the Neo Geo was known to the coin-op industry, offered arcade operators the ability to put up to 6 different arcade titles into a single cabinet, a key economic consideration for operators with limited floorspace. With its games stored on self-contained cartridges, a game-cabinet could be exchanged for a different game-title by swapping the game's ROM-cartridge and cabinet artwork.[CR]Several popular franchise-series, including Fatal Fury, The King of Fighters, Metal Slug and Samurai Shodown, were released for the platform. The Neo Geo system was also marketed as a very costly home console, commonly referred to today as the AES (Advanced Entertainment System). The Neo Geo was marketed as 24-bit, though it was technically a parallel processing 16-bit system with an 8-bit Zilog Z80 as coprocessor. The coprocessor was used as a CPU, and for sound processing.[CR]Developer:  SNK[CR]Manufacturer:  SNK[CR]CPU:  Motorola 68000[CR]Memory:  64KB RAM, 74KB VRAM[CR]Graphics:  SNK LSPC2-A2[CR]Sound:  Yamaha YM2610[CR]Display:  320×224[CR]Media:  Cartridge[CR]Max Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/r72phHR.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/JGfDKJ9.jpg</emu_banner>
@@ -464,18 +266,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Nintendo Entertainment System - NES - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_NES</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach_Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro NES List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics. As the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo's platform.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  Ricoh 2A03[CR]Memory:  2KB RAM[CR]Graphics:  RP2C02[CR]Sound:  Pulse Code Modulation[CR]Display:  RGB[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/xqss1m8.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/KWhZK4s.png</emu_banner>
@@ -485,18 +278,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Neo Geo Pocket Color - NGPC - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_NES</emu_description>
-		<emu_category>Neo Geo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach_Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro NGPC List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Neo Geo Pocket Color (shortened NGPC), is a 16-bit colour handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan. The Neo Geo Pocket Color was released on March 16, 1999 in Japan, August 6, 1999 in North America, and some time in 1999 in Europe. The Neo Geo Pocket Color was SNK's last video game console, and is backwards compatible with the Neo Geo Pocket. In 2000, following SNK's purchase by American pachinko manufacturer Aruze, the Neo Geo Pocket Color was dropped from both the North American and European markets. It did, however, last until 2001 in Japan, with a total of 2 million units sold.[CR]Developer:  SNK[CR]CPU:  Toshiba TLCS900H core (16-bit), 6.144 MHz, Z80 at 3.072 MHz for sound[CR]Memory:  12 k for 900H, 4k for Z80 (shared with the 900H)[CR]Graphics:  160x152 (256x256 virtual screen)[CR]Sound:  SN76489 variant, T6W28 (3 square wave tone generators with limited stereo capability plus 1 monaural noise generator plus direct access to the two 6 bits DAC)[CR]Display:  16 palettes per plane, 48 palettes. 146 colors on screen out of 4096 (or 20 colors out of 4096 in monochrome mode)[CR]Media:  Cartridge[CR]Max Controllers:  1</emu_comment>
 		<emu_thumb>https://i.imgur.com/t2LEnKw.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/H4WRIE4.jpg</emu_banner>
@@ -506,18 +290,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>PlayStation - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>PlayStation</emu_description>
-		<emu_category>Sony</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>redump</emu_author>
-		<emu_homepage>http://redump.org/</emu_homepage>
-		<emu_baseurl>https://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>convert_zip_m3u</emu_postdlaction>
 		<emu_comment>ReDump PlayStation List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The PlayStation, officially abbreviated as PS, unofficially referred to as the PSX or PS1, is a 32-bit fifth-generation video game console first released by Sony Computer Entertainment in Japan on December 3, 1994. The PlayStation was the first of the PlayStation series of consoles and handheld game devices. The PlayStation 2 was the console's successor in 2000. The PlayStation was the first "computer entertainment platform" to ship 100 million units, which it had reached 9 years and 6 months after its initial launch. In 2000, a re-designed, "slim" version was released, called the PSone. This marked the end of the original grey console.[CR]Developer:  Sony[CR]Manufacturer:  Sony[CR]CPU:  MIPS R3000A-family R3051[CR]Memory:  2MB[CR]Sound:  ADPCM sources with up to 24 channels[CR]Display:  640x480[CR]Media:  Disc[CR]Max Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/tDDcusS.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/IeK2ChU.jpg</emu_banner>
@@ -527,18 +302,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Scumm VM - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Scumm VM</emu_description>
-		<emu_category>DOS</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.mame.org/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_scummvm_update_conf_file</emu_postdlaction>
 		<emu_comment>ScummVM List by Zach Morris.  This is the FULL UNFILTERED archive of SCUMMVM games (full list for version 1.20).[CR]SCUMMVM originally stood for: Script Creation Utility for Maniac Mansion Virtual Machine, but now ScummVM is a general game emulator, allowing the user to play supported adventure games on their platform of choice.</emu_comment>
 		<emu_thumb>https://i.imgur.com/et8azsX.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/n0rnnCJ.jpg</emu_banner>
@@ -548,18 +314,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Sega Dreamcast - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Sega Dreamcast</emu_description>
-		<emu_category>Sega</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>redump</emu_author>
-		<emu_homepage>http://redump.org/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>convert_zip_gdi</emu_postdlaction>
 		<emu_comment>ReDump Sega Dreamcast List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Dreamcast is a 128-bit video game console which was released by Sega in late 1998 in Japan and from September 1999 in other territories. It was the first entry in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Microsoft's Xbox and the Nintendo GameCube. Dreamcast sales were positive during launch, but because of the strong pressure from rival PlayStation 2, Dreamcast sales decreased, and Sega finally discontinued the Dreamcast in March 2001 and withdrew entirely from the console hardware business, making it the company's final console.[CR]Developer:  Sega[CR]Manufacturer:  Sega[CR]CPU:  200 MHz Hitachi SH4 RISC[CR]Memory:  RAM 16 MB, GPU 8 MB[CR]Graphics:  100 MHz PowerVR2 CLX2[CR]Sound:  Yamaha AICA Sound Processor with a 32-Bit ARM7 RISC CPU[CR]Display:  640 × 480[CR]Media:  Disc[CR]Max Controllers:  4</emu_comment>
 		<emu_thumb>https://i.imgur.com/OL8Mcte.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/ca9mRWe.jpg</emu_banner>
@@ -569,18 +326,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Sega Saturn - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Sega Saturn</emu_description>
-		<emu_category>Sega</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>convert_zip_m3u</emu_postdlaction>
 		<emu_comment>ReDump Sega Saturn List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The Sega Saturn is a 32-bit fifth-generation home video game console that was developed by Sega and released in 1994 in Japan as the successor to the successful Sega Genesis. Saturn has a dual-CPU architecture and a total of eight processors. Its games are in CD-ROM format, and its game library contains several arcade ports as well as original titles.[CR]Developer:  Sega[CR]Manufacturer:  Sega[CR]CPU:  2 × Hitachi SH-2 32-bit RISC[CR]Memory:  1 MB SDRAM as work RAM for both SH-2 CPUs[CR]Graphics:  Custom VDP 1 32-bit video display processor[CR]Sound:  Yamaha FH1 DSP[CR]Display:  320x240[CR]Media:  CD[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/hzYQJIT.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/czN7m2Z.jpg</emu_banner>
@@ -590,18 +338,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Sega SG-1000 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Sega SG-1000</emu_description>
-		<emu_category>Sega</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No-Intro Sega SG-1000 List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The SG-1000 is a cartridge-based home video game console manufactured by Sega and released in Japan, Australia, and other countries. This system marked Sega's first entry into the home video game hardware business, and provided the basis for the more successful Master System. The SG-1000's game library comprises 68 standard cartridge releases and 29 Sega Card releases. All of the SG-1000's games play on each model of the console, though 26 of the cartridge releases require the attached keyboard accessory or the SC-3000. In addition, all titles are fully compatible with the Mark III and Master System. Titles for the system include Flicky, Congo Bongo, Sega-Galaga, and Girl's Garden, the first video game directed by Sonic the Hedgehog creator Yuji Naka. The game library for the SG-1000 also included licensed titles, such as Golgo 13.[CR]Developer:  Sega[CR]Manufacturer:  Sega[CR]CPU:  NEC 780C[CR]Memory:  1kB RAM, 2kB VRAM[CR]Graphics:  N/A[CR]Sound:  Texas Instruments SN76489[CR]Display:  256×192 resolution, 16 colours, 32 on-screen sprites[CR]Media:  Cartridge, Cards[CR]Max Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/jQftmGZ.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/lcCNIk9.jpg</emu_banner>
@@ -611,18 +350,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Super Famicom - SFC</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_SFC</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro Super Famicom (SFC) List by Zach Morris.  This list is filtered to remove duplicates, betas, etc.[CR]Super Famicom was the Japanese released version of the Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo).  The SFC is a 16-bit video game console that was released by Nintendo between 1990 and 1993. In Japan and Southeast Asia, the system is called the Super Famicom (officially adopting the abbreviated name of its predecessor, the Family Computer), or SFC for short.[CR]Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another. The Super Famicom was Nintendo's second home console, following the Nintendo Family Computer (NFC). The console introduced advanced graphics and sound capabilities compared with other consoles at the time. Additionally, development of a variety of enhancement chips (which were integrated on game circuit boards) helped to keep it competitive in the marketplace. The SNES was a global success, becoming the best-selling console of the 16-bit era despite its relatively late start and the fierce competition it faced. The SFC remained popular well into the 32-bit era, and although Nintendo no longer offers factory repairs/replacement or accessories for the console, it continues to be popular among fans, collectors, retro gamers, and emulation enthusiasts, some of whom are still making homebrew ROM images.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  16-bit 65c816 Ricoh 5A22 3.58 MHz[CR]Memory:  128kb[CR]Graphics:  N/A[CR]Sound:  8-bit Sony SPC700[CR]Display:  512 × 239[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/iUG834y.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/ZpZe36X.jpg</emu_banner>
@@ -632,18 +362,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Super Nintendo Entertainment System - SNES - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_SNES</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro SNES List by Zach Morris.  This list the FULL UNFILTERED list of games available from the archive.[CR]The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit video game console that was released by Nintendo in North America, Europe, Australasia (Oceania), and South America between 1990 and 1993. In Japan and Southeast Asia, the system is called the Super Famicom (officially adopting the abbreviated name of its predecessor, the Family Computer), or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another. The Super Nintendo Entertainment System was Nintendo's second home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other consoles at the time. Additionally, development of a variety of enhancement chips (which were integrated on game circuit boards) helped to keep it competitive in the marketplace. The SNES was a global success, becoming the best-selling console of the 16-bit era despite its relatively late start and the fierce competition it faced in North America and Europe from Sega's Genesis console. The SNES remained popular well into the 32-bit era, and although Nintendo no longer offers factory repairs/replacement or accessories for the console, it continues to be popular among fans, collectors, retro gamers, and emulation enthusiasts, some of whom are still making homebrew ROM images.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  16-bit 65c816 Ricoh 5A22 3.58 MHz[CR]Memory:  128kb[CR]Graphics:  N/A[CR]Sound:  8-bit Sony SPC700[CR]Display:  512 × 239[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/Zz3Ie7M.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/rnbhwDF.jpg</emu_banner>
@@ -653,18 +374,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>Super Nintendo Entertainment System - SNES - USA Only</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_SNES</emu_description>
-		<emu_category>Nintendo</emu_category>
 		<emu_version>08082017</emu_version>
 		<emu_date>08/08/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro SNES List by Zach Morris.  This is a filtered list of the default SNES archive, listing only games from the USA.[CR]The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit video game console that was released by Nintendo in North America, Europe, Australasia (Oceania), and South America between 1990 and 1993. In Japan and Southeast Asia, the system is called the Super Famicom (officially adopting the abbreviated name of its predecessor, the Family Computer), or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another. The Super Nintendo Entertainment System was Nintendo's second home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other consoles at the time. Additionally, development of a variety of enhancement chips (which were integrated on game circuit boards) helped to keep it competitive in the marketplace. The SNES was a global success, becoming the best-selling console of the 16-bit era despite its relatively late start and the fierce competition it faced in North America and Europe from Sega's Genesis console. The SNES remained popular well into the 32-bit era, and although Nintendo no longer offers factory repairs/replacement or accessories for the console, it continues to be popular among fans, collectors, retro gamers, and emulation enthusiasts, some of whom are still making homebrew ROM images.[CR]Developer:  Nintendo[CR]Manufacturer:  Nintendo[CR]CPU:  16-bit 65c816 Ricoh 5A22 3.58 MHz[CR]Memory:  128kb[CR]Graphics:  N/A[CR]Sound:  8-bit Sony SPC700[CR]Display:  512 × 239[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/Zz3Ie7M.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/rnbhwDF.jpg</emu_banner>
@@ -674,18 +386,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>NEC - PC Engine - TurboGrafx 16 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>No-Intro_TG16</emu_description>
-		<emu_category>NEC</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>no-intro</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>unzip_rom</emu_postdlaction>
 		<emu_comment>No Intro TurboGrafx 16 List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR][CR]The TurboGrafx-16 Entertainment SuperSystem, originally known in Japan as the PC Engine, is a home video game console joint-developed by Hudson Soft and NEC, released in Japan on October 30, 1987, and in the United States on August 29, 1989. It was the first console released in the 16-bit era, albeit still utilizing an 8-bit CPU. Originally intended to compete with the Nintendo Entertainment System (NES), it ended up competing against the likes of the Sega Mega Drive/Genesis, Super Famicom/Super Nintendo, and even the Neo Geo AES.[CR]The TurboGrafx-16 has an 8-bit CPU and a dual 16-bit GPU; and is capable of displaying 482 colors simultaneously, out of 512. The NEC PC Engine once held the record for the world's smallest game console.[CR]Developer:  Hudson Soft[CR]Manufacturer:  NEC[CR]CPU:  Hudson Soft HuC6280[CR]Memory:  64 kB[CR]Graphics:  HuC6260[CR]Sound:  6 Mini-Wavetable stereo audio channels[CR]Display:  256×239[CR]Media:  Cartridge[CR]Max. Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/uqXYATq.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/N6Ykvpi.png</emu_banner>
@@ -695,18 +398,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>x68000 - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>x68000</emu_description>
-		<emu_category>Sharp</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.tosecdev.org/</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>external</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>convert_mess2014_softlist('x68k_flop')</emu_postdlaction>
 		<emu_comment>Sharp x68000 List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The X68000 is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan. In terms of hardware, it is very similar to arcade machines of the time, and serves as the Capcom CPS system development machine. It supports separate text RAM, graphic RAM and hardware sprites. Sound is produced internally via Yamaha's then top-of-the-line YM2151 FM synthesizer and a single channel OKI MSM6258V for PCM. Due to this and other similarities, it played host to many arcade game ports in its day. Games made for this system include Parodius Da! －Shinwa kara Owarai e－, Ghouls 'n Ghosts, Strider, Final Fight, Alien Syndrome, Street Fighter II Dash, Akumajo Dracula (Castlevania in other regions, the X68000 version was ported to the PlayStation as Castlevania Chronicles), Cho Ren Sha 68k (which has a Windows port) and many others. Many games also supported the Roland SC-55 and MT-32 MIDI modules for sound as well as mixed-mode internal/external output.[CR]Developer:  Sharp Corporation[CR]Manufacturer:  Sharp Corporation[CR]CPU:  Hitachi HD68HC000 10 MHz[CR]Memory:  12 MB[CR]Graphics:  256 × 240[CR]Sound:  Yamaha YM2151, OKI MSM6258[CR]Media:  Floppy[CR]Max Controllers:  2</emu_comment>
 		<emu_thumb>https://i.imgur.com/HLzkiBD.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/4UCPbPK.jpg</emu_banner>
@@ -716,18 +410,9 @@
 	</extrafile>
 	<extrafile>
 		<emu_name>ZX Spectrum - Full Archive</emu_name>
-		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>ZX Spectrum</emu_description>
-		<emu_category>Sinclair</emu_category>
 		<emu_version>12022017</emu_version>
 		<emu_date>12/02/2017</emu_date>
-		<emu_author>Zach Morris</emu_author>
-		<emu_homepage>http://www.no-intro.org</emu_homepage>
-		<emu_baseurl>http://archive.org/download/</emu_baseurl>
-		<emu_launcher>retroplayer</emu_launcher>
-		<emu_ext_launch_cmd>none</emu_ext_launch_cmd>
-		<emu_downloadpath>default</emu_downloadpath>
-		<emu_postdlaction>none</emu_postdlaction>
 		<emu_comment>TOSEC ZX Spectrum List by Zach Morris.  This is the FULL UNFILTERED list of games available from the archive.[CR]The ZX Spectrum (pronounced "Zed-Ex") is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research Ltd. Referred to during development as the ZX81 Colour and ZX82, the machine was launched as the ZX Spectrum by Sinclair to highlight the machine's colour display, compared with the black-and-white of its predecessor, the ZX81. The Spectrum was ultimately released as eight different models, ranging from the entry level model with 16 kB RAM released in 1982 to the ZX Spectrum +3 with 128 kB RAM and built in floppy disk drive in 1987; together they sold in excess of 5 million units worldwide (not counting numerous clones). The Spectrum was among the first mainstream audience home computers in the UK, similar in significance to the Commodore 64 in the USA. The introduction of the ZX Spectrum led to a boom in companies producing software and hardware for the machine, the effects of which are still seen; some credit it as the machine which launched the UK IT industry. Licensing deals and clones followed, and earned Clive Sinclair a knighthood for "services to British industry". The Commodore 64, BBC Microcomputer and later the Amstrad CPC range were major rivals to the Spectrum in the UK market during the early 1980s. Over 24,000 software titles have been released since the Spectrum's launch and new titles continue to be released, with over 90 new ones in 2010.[CR]Developer:  Sinclair Research Ltd.[CR]Manufacturer:  Sinclair Research Ltd.[CR]CPU:  Zilog Z80A @ 3.5 MHz and equivalent[CR]Memory:  16 kB / 48 kB / 128 kB[CR]Graphics:  Text: 32 columns × 24 rows - 15 Shades | Image: 256×192 15 Shades[CR]Sound:  1 Channel In-Built Beeper[CR]Display:  RF modulator[CR]Media:  Cassette[CR]Max Controllers:  1</emu_comment>
 		<emu_thumb>https://i.imgur.com/X89Tm4P.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/T7hIsf0.jpg</emu_banner>
