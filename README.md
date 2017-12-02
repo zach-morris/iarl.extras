@@ -11,7 +11,10 @@ The Internet Archive ROM Launcher ([IARL](https://github.com/zach-morris/plugin.
 
 IARL Extras is a community driven project!
 
-Add your own game list by submitting one [here](https://github.com/zach-morris/iarl.extras/issues/new)
+
+**Share a game list with the community by submitting one [here](https://github.com/zach-morris/iarl.extras/issues/new)**
+
+
 
 Support
 -------------------
