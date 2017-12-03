@@ -1,7 +1,9 @@
 **IARL Extras Submission Instructions**
 
- 1. Attach your xml file to your newly created issue in github, follow the instructions here:
+ 1. Attach your game list file  to your newly created issue in github, follow the instructions here:
  https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/
+
+ The list can be a zipped xml file or an xml file renamed as txt.
 
  The list must either follows the format described here:
  https://github.com/zach-morris/plugin.program.iarl/wiki/3.--Create-your-own-lists
