@@ -1,15 +1,16 @@
 **IARL Extras Submission Instructions**
 
- 1. Attach your game list file  to your newly created issue in github, follow the instructions here:
- https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/
+ 1. Attach your game list file  to your newly created issue in github.
 
  The list can be a zipped xml file or an xml file renamed as txt.
+
+ Follow the instructions here:
+ https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/
 
  The list must either follows the format described here:
  https://github.com/zach-morris/plugin.program.iarl/wiki/3.--Create-your-own-lists
 
- or the list can be a favorites xml game list generated from the IARL addon.
- 
+ or the list can be a favorites game list generated from the IARL addon. 
 
  2. Title of your Game List:   
 
