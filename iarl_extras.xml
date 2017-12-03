@@ -1,5 +1,18 @@
 <datafile>
 	<extrafile>
+		<emu_extras_filename>All_Mario_Collection_ZachMorris.xml</emu_extras_filename>
+		<emu_name>All Mario Collection</emu_name>
+		<emu_description>IARL_Favorites</emu_description>
+		<emu_version>12022017</emu_version>
+		<emu_date>12/02/2017</emu_date>
+		<emu_comment>Mario games collection by Zach Morris.[CR]Mario, who serves as Nintendo's mascot, is a fictional character created by game designer Shigeru Miyamoto and voiced by Charles Martinet. This is a list of video games where the character Mario plays a part, either as the protagonist, antagonist, supporting character, as part of an ensemble cast, as a cameo, or in a game within a game. It does not include simple references to the character.</emu_comment>
+		<emu_thumb>https://i.imgur.com/XxPubLa.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/0lCCRqi.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/R18PkuM.png</emu_fanart>
+		<emu_logo>https://i.imgur.com/dXUKDWd.png</emu_logo>
+		<emu_trailer>HOxEEmdYlpc</emu_trailer>
+	</extrafile>
+	<extrafile>
 		<emu_extras_filename>Apple2GS_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>Apple 2GS - Full Archive</emu_name>
 		<emu_description>Apple 2GS</emu_description>
