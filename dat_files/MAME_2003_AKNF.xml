@@ -1,6 +1,6 @@
 <datafile>
 	<header>
-		<emu_name>MAME 2003 - All Killer No Filler</emu_name>
+		<emu_name>MAME - 2003 - All Killer No Filler</emu_name>
 		<emu_parser>NoIntro_parser.xml</emu_parser>
 		<emu_description>Arcade</emu_description>
 		<emu_category>Top 50</emu_category>

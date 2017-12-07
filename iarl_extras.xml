@@ -78,6 +78,58 @@
 		<emu_trailer>9ZIbnZuqUuo</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>FBA_2012_CPS1_ZachMorris.xml</emu_extras_filename>
+		<emu_name>Final Burn Alpha - 2012 - CPS1</emu_name>
+		<emu_description>Final Burn Alpha</emu_description>
+		<emu_version>120617</emu_version>
+		<emu_date>12/06/2017</emu_date>
+		<emu_comment>Internet Archive Final Burn Alpha 2012 CPS1 romset listing by Zach Morris.  This set is for use with the Retroarch core FBA 2012 CPS1 (v0.2.97.29 / MAME v0.149).  This list is the full list of compatible roms available for this set.[CR]Final Burn Alpha is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the final burn team and originated from FinalBurn by Dave.</emu_comment>
+		<emu_thumb>https://i.imgur.com/vMusn2o.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/kogFp5c.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/XsPb9Sd.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/KmDIU6z.png</emu_logo>
+		<emu_trailer>2U3k-ks3bZw</emu_trailer>
+	</extrafile>
+	<extrafile>
+		<emu_extras_filename>FBA_2012_CPS2_ZachMorris.xml</emu_extras_filename>
+		<emu_name>Final Burn Alpha - 2012 - CPS2</emu_name>
+		<emu_description>Final Burn Alpha</emu_description>
+		<emu_version>120617</emu_version>
+		<emu_date>12/06/2017</emu_date>
+		<emu_comment>Internet Archive Final Burn Alpha 2012 CPS2 romset listing by Zach Morris.  This set is for use with the Retroarch core FBA 2012 CPS2 (v0.2.97.29 / MAME v0.149).  This list is the full list of compatible roms available for this set.[CR]Final Burn Alpha is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the final burn team and originated from FinalBurn by Dave.</emu_comment>
+		<emu_thumb>https://i.imgur.com/vMusn2o.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/kogFp5c.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/XsPb9Sd.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/KmDIU6z.png</emu_logo>
+		<emu_trailer>2U3k-ks3bZw</emu_trailer>
+	</extrafile>
+	<extrafile>
+		<emu_extras_filename>FBA_2012_NeoGeo_ZachMorris.xml</emu_extras_filename>
+		<emu_name>Final Burn Alpha - 2012 - Neo Geo</emu_name>
+		<emu_description>Final Burn Alpha</emu_description>
+		<emu_version>120617</emu_version>
+		<emu_date>12/06/2017</emu_date>
+		<emu_comment>Internet Archive Final Burn Alpha 2012 Neo Geo romset listing by Zach Morris.  This set is for use with the Retroarch core FBA 2012 NeoGeo (v0.2.97.29 / MAME v0.149).  This list is the full list of compatible roms available for this set.[CR]Final Burn Alpha is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the final burn team and originated from FinalBurn by Dave.</emu_comment>
+		<emu_thumb>https://i.imgur.com/vMusn2o.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/kogFp5c.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/XsPb9Sd.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/KmDIU6z.png</emu_logo>
+		<emu_trailer>2U3k-ks3bZw</emu_trailer>
+	</extrafile>
+	<extrafile>
+		<emu_extras_filename>FBA_2012_ZachMorris.xml</emu_extras_filename>
+		<emu_name>Final Burn Alpha - 2012</emu_name>
+		<emu_description>Final Burn Alpha</emu_description>
+		<emu_version>120617</emu_version>
+		<emu_date>12/06/2017</emu_date>
+		<emu_comment>Internet Archive Final Burn Alpha 2012 romset listing by Zach Morris.  This set is for use with the Retroarch core FBA 2012 (v0.2.97.29 / MAME v0.149).  This list is the full list of compatible roms available for this set.[CR]Final Burn Alpha is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the final burn team and originated from FinalBurn by Dave.</emu_comment>
+		<emu_thumb>https://i.imgur.com/vMusn2o.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/kogFp5c.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/XsPb9Sd.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/KmDIU6z.png</emu_logo>
+		<emu_trailer>2U3k-ks3bZw</emu_trailer>
+	</extrafile>
+	<extrafile>
 		<emu_extras_filename>FBA_ZachMorris_Family_Friendly.xml</emu_extras_filename>
 		<emu_name>Final Burn Alpha - Family Friendly</emu_name>
 		<emu_description>Final Burn Alpha</emu_description>
@@ -170,7 +222,7 @@
 	</extrafile>
 	<extrafile>
 		<emu_extras_filename>MAME_2003_AKNF.xml</emu_extras_filename>
-		<emu_name>MAME 2003 - All Killer No Filler</emu_name>
+		<emu_name>MAME - 2003 - All Killer No Filler</emu_name>
 		<emu_description>Arcade</emu_description>
 		<emu_version>12032017</emu_version>
 		<emu_date>12/03/2017</emu_date>
