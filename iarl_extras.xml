@@ -417,6 +417,19 @@
 		<emu_trailer>dUHYNmNrqoY</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>Nintendo_Famicom_83RL.xml</emu_extras_filename>
+		<emu_name>Family Computer - Famicom</emu_name>
+		<emu_description>No-Intro_NES</emu_description>
+		<emu_version>121317</emu_version>
+		<emu_date>12/13/2017</emu_date>
+		<emu_comment>Famicom game list by 83RL.[CR]The Family Disk System was released on February 21, 1986 by Nintendo as a peripheral for the Nintendo Family Computer console in Japan. It uses proprietary floppy disks (called "Disk Cards") for data storage. The Disk System's Disk Cards are somewhat proprietary 71 mm × 76 mm (2.8x3 in) 56K-per-side double-sided floppy. These "Disk Cards," as they are officially called, were a slight modification of Mitsumi's "Quick Disk" 89 mm 2.8 in square disk format which is used in a handful of Japanese computers and various synthesizer keyboards, along with a few word processors. Some of the QuickDisk drives even made it into devices in Europe and North America, though they are somewhat rare. Mitsumi already had close relations with Nintendo, as it manufactured the Famicom and NES consoles, and possibly other Nintendo hardware.</emu_comment>
+		<emu_thumb>https://i.imgur.com/kRivxng.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/s7tlb2u.png</emu_banner>
+		<emu_fanart>https://i.imgur.com/a9kCOPc.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/RaUnLxw.png</emu_logo>
+		<emu_trailer>L0q1A08LDMY</emu_trailer>
+	</extrafile>
+	<extrafile>
 		<emu_extras_filename>PS1_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>PlayStation - Full Archive</emu_name>
 		<emu_description>PlayStation</emu_description>
