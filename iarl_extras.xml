@@ -430,6 +430,19 @@
 		<emu_trailer>L0q1A08LDMY</emu_trailer>
 	</extrafile>
 	<extrafile>
+		<emu_extras_filename>PCE_SuperGrafx_ZachMorris.xml</emu_extras_filename>
+		<emu_name>PC Engine SuperGrafx</emu_name>
+		<emu_description>PCE_SuperGrafx</emu_description>
+		<emu_version>12072017</emu_version>
+		<emu_date>12/07/2017</emu_date>
+		<emu_comment>The PC Engine SuperGrafx, also shortened as the SuperGrafx or PC Engine SG, is a video game console by NEC Home Electronics, released exclusively in Japan. It is an upgraded version of the PC Engine, released two years prior. Like the PC Engine, the SuperGrafx was also imported and sold in France. Originally announced as the PC Engine 2, the machine was purported to be a true 16-bit system with improved graphics and audio capabilities over the original PC Engine. Expected to be released in 1990, the SuperGrafx was rushed to market, debuting several months earlier in late 1989 with only modest improvements over the original PC Engine. Only seven games were produced which took advantage of the improved SuperGrafx hardware, and two of those could be played on a regular PC Engine. However, the SuperGrafx is backwards compatible with all PC Engine software in both, HuCard and CD-ROM format, bringing the compatible software total up to nearly 700. The system was not widely adopted and is largely seen as a commercial failure.[CR]Developer:  	NEC Home Electronics[CR]Manufacturer:  	NEC Home Electronics[CR]CPU:  8-bit HuC6280A, a modified 65SC02[CR]Memory:  32 kB RAM[CR]Graphics:  One 16-bit HuC6260 VCE, two 16-bit HuC6270A VDCs, and one HuC6202 VPC[CR]Sound:  HuC6280A[CR]Display:  565×242[CR]Media:  HuCard or CD-ROM[CR]Max Controllers:  2</emu_comment>
+		<emu_thumb>https://i.imgur.com/B1EdK9k.png</emu_thumb>
+		<emu_banner>https://i.imgur.com/h0a7OIF.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/V3dBYEc.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/EIif0tY.png</emu_logo>
+		<emu_trailer>OXTC2GaeH0g</emu_trailer>
+	</extrafile>
+	<extrafile>
 		<emu_extras_filename>PS1_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>PlayStation - Full Archive</emu_name>
 		<emu_description>PlayStation</emu_description>
