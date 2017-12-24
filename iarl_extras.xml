@@ -1,4 +1,6 @@
 <datafile>
+	<last_update>2017-12-24</last_update>
+	<last_update_comment>Added WIN3.X Full Archive, Added PCE SuperGrafx<last_update_comment>
 	<extrafile>
 		<emu_extras_filename>All_Mario_Collection_ZachMorris.xml</emu_extras_filename>
 		<emu_name>All Mario Collection</emu_name>
@@ -558,6 +560,19 @@
 		<emu_fanart>https://i.imgur.com/XYYwoSh.jpg</emu_fanart>
 		<emu_logo>https://i.imgur.com/6aaHz7p.png</emu_logo>
 		<emu_trailer>Xn_xaQ5d5gY</emu_trailer>
+	</extrafile>
+	<extrafile>
+		<emu_extras_filename>Win31_ZachMorris_Full.xml</emu_extras_filename>
+		<emu_name>Windows 3.x Games</emu_name>
+		<emu_description>WIN31_PC</emu_description>
+		<emu_version>12232017</emu_version>
+		<emu_date>12/23/2017</emu_date>
+		<emu_comment>Windows 3.X game list by Zach Morris.  This is the FULL UNFILTERED list from the archive.[CR]Windows 3.1x (codenamed Janus) is a series of 16-bit operating environments produced by Microsoft for use on personal computers. The series began with Windows 3.1, which was first sold during April 1992 as a successor to Windows 3.0. Subsequent versions were released between 1992 and 1994 until the series was superseded by Windows 95. During its lifespan, Windows 3.1 introduced several enhancements to the still MS-DOS–based platform, including improved system stability, expanded support for multimedia, TrueType fonts, and workgroup networking.[CR]As the first versions of Windows to enjoy major commercial success and software support, Windows 3.1 quickly replaced DOS as the platform for application software on PC compatibles. Multimedia software (especially games) proliferated, although many games continued to run on DOS until Windows 95.</emu_comment>
+		<emu_thumb>https://i.imgur.com/tf9SM8N.jpg</emu_thumb>
+		<emu_banner>https://i.imgur.com/FFll9MR.jpg</emu_banner>
+		<emu_fanart>https://i.imgur.com/inZeq7E.jpg</emu_fanart>
+		<emu_logo>https://i.imgur.com/mVg05es.png</emu_logo>
+		<emu_trailer>eX4MdXF3OWI</emu_trailer>
 	</extrafile>
 	<extrafile>
 		<emu_extras_filename>x68000_ZachMorris_Full.xml</emu_extras_filename>

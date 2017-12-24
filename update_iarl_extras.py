@@ -1,10 +1,17 @@
 #Script to generate IARL Extras Master XML
-import os, glob
+import os, glob, datetime
+
+last_update_time = datetime.datetime.now()
 base_dir = os.path.dirname(os.path.realpath(__file__))
 xml_files = glob.glob(os.path.join(base_dir,'dat_files','*.xml'))
 total_lines = 500  #Read up to this many lines looking for the header
 new_line = '\r\n'
-iarl_extras_text = '<datafile>'+new_line
+try:
+	last_update_comment = raw_input('Enter an update Comment:  ')
+except:
+	last_update_comment = ''
+	print 'No Update Comment was provided'
+iarl_extras_text = '<datafile>\r\n\t<last_update>xxlast_updatexx</last_update>\r\n\t<last_update_comment>xxlast_update_commentxx<last_update_comment>'.replace('xxlast_updatexx',last_update_time.strftime("%Y-%m-%d")).replace('xxlast_update_commentxx',last_update_comment)+new_line
 iarl_extras_entry = '\t<extrafile>'+new_line+'\t\t<emu_extras_filename>xxxml_filenamexx</emu_extras_filename>'+'xxheader_textxx'+'</extrafile>'+new_line
 dont_include_these_lines = ['<emu_parser>','<emu_category>','<emu_author>','<emu_homepage>','<emu_baseurl>','<emu_launcher>','<emu_ext_launch_cmd>','<emu_downloadpath>','<emu_postdlaction>'] #Do not need to include this info in the summary xml
 
