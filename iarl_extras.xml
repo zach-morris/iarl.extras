@@ -1,6 +1,6 @@
 <datafile>
-	<last_update>2017-12-24</last_update>
-	<last_update_comment>Added WIN3.X Full Archive, Added PCE SuperGrafx</last_update_comment>
+	<last_update>2018-02-04</last_update>
+	<last_update_comment>Updated 4 MAME game lists to version 0.193</last_update_comment>
 	<extrafile>
 		<emu_extras_filename>All_Mario_Collection_ZachMorris.xml</emu_extras_filename>
 		<emu_name>All Mario Collection</emu_name>
@@ -278,9 +278,9 @@
 		<emu_extras_filename>MAME_AKNF.xml</emu_extras_filename>
 		<emu_name>MAME - All Killer No Filler</emu_name>
 		<emu_description>Arcade</emu_description>
-		<emu_version>05302017</emu_version>
-		<emu_date>05/30/2017</emu_date>
-		<emu_comment>All killer No filler is a gamelist by BadMouth and MAME version 0.185.  The games are listed per genre for people who are interested in quality over quantity.[CR]Yes, it's subjective.  This is not about listing every game in a genre.  That would put us right back up to scrolling through thousands of games, most of which suck.[CR]Arcade games only.[CR]Plain old joystick controls only.[CR]You may think not every game on these lists is "killer", but it sounds better than "you probably won't miss any games not on this list because they are either redundant in respect to games already on the list or they just aren't that good"</emu_comment>
+		<emu_version>02022018</emu_version>
+		<emu_date>02/02/2018</emu_date>
+		<emu_comment>All killer No filler is a gamelist by BadMouth and MAME version 0.193.  The games are listed per genre for people who are interested in quality over quantity.[CR]Yes, it's subjective.  This is not about listing every game in a genre.  That would put us right back up to scrolling through thousands of games, most of which suck.[CR]Arcade games only.[CR]Plain old joystick controls only.[CR]You may think not every game on these lists is "killer", but it sounds better than "you probably won't miss any games not on this list because they are either redundant in respect to games already on the list or they just aren't that good"</emu_comment>
 		<emu_thumb>https://i.imgur.com/dsNkXcP.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/P7Ygxz2.jpg</emu_banner>
 		<emu_fanart>https://i.imgur.com/zT3Ektt.jpg</emu_fanart>
@@ -290,10 +290,10 @@
 	<extrafile>
 		<emu_extras_filename>MAME_CHD_ZachMorris.xml</emu_extras_filename>
 		<emu_name>MAME - CHD Games</emu_name>
-		<emu_description>MAME 0.185</emu_description>
-		<emu_version>053017</emu_version>
-		<emu_date>05/30/2017</emu_date>
-		<emu_comment>Internet Archive MAME Romset 0.185 CHD Games List by Zach Morris.  This list contains a list of all available CHD MAME games.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".  Joystiq has listed MAME as an application that every gamer should have.</emu_comment>
+		<emu_description>MAME 0.193</emu_description>
+		<emu_version>02022018</emu_version>
+		<emu_date>02/02/2018</emu_date>
+		<emu_comment>Internet Archive MAME Romset 0.193 CHD Games List by Zach Morris.  This list contains a list of all available CHD MAME games.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".  Joystiq has listed MAME as an application that every gamer should have.</emu_comment>
 		<emu_thumb>https://i.imgur.com/I49bCV1.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/ISLPiIm.jpg</emu_banner>
 		<emu_fanart>https://i.imgur.com/qxeGXby.jpg</emu_fanart>
@@ -303,10 +303,10 @@
 	<extrafile>
 		<emu_extras_filename>MAME_Family_Friendly.xml</emu_extras_filename>
 		<emu_name>MAME - Multiple Arcade Machine Emulator - Family Friendly</emu_name>
-		<emu_description>MAME 0.185</emu_description>
-		<emu_version>1222017</emu_version>
-		<emu_date>12/2/2017</emu_date>
-		<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is a filtered set from the 0.185 set, removing all adult games in addition to clones, mechanical devices, bioses, etc. along with unwanted games like mahjong and the like.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
+		<emu_description>MAME 0.193</emu_description>
+		<emu_version>02022018</emu_version>
+		<emu_date>02/02/2018</emu_date>
+		<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is a filtered set from the 0.193 set, removing all adult games in addition to clones, mechanical devices, bioses, etc. along with unwanted games like mahjong and the like.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
 		<emu_thumb>https://i.imgur.com/meL2vpM.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/r89qyGQ.jpg</emu_banner>
 		<emu_fanart>https://i.imgur.com/qxeGXby.jpg</emu_fanart>
@@ -316,10 +316,10 @@
 	<extrafile>
 		<emu_extras_filename>MAME_ZachMorris_Full.xml</emu_extras_filename>
 		<emu_name>MAME - Multiple Arcade Machine Emulator - Full Archive</emu_name>
-		<emu_description>MAME 0.185</emu_description>
-		<emu_version>0.185</emu_version>
-		<emu_date>12/02/2017</emu_date>
-		<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is the FULL UNFILTERED 0.185 set from the archive.[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
+		<emu_description>MAME 0.193</emu_description>
+		<emu_version>0.193</emu_version>
+		<emu_date>02/02/2018</emu_date>
+		<emu_comment>Internet Archive MAME Games List by Zach Morris.  This list is the FULL UNFILTERED 0.193 set from the archive.[CR]A word of warning, this list is very large (over 34k games!), so it will likely not work well on low powered machines[CR]MAME (an acronym of Multiple Arcade Machine Emulator) is an emulator application designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.  The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect".</emu_comment>
 		<emu_thumb>https://i.imgur.com/meL2vpM.jpg</emu_thumb>
 		<emu_banner>https://i.imgur.com/r89qyGQ.jpg</emu_banner>
 		<emu_fanart>https://i.imgur.com/qxeGXby.jpg</emu_fanart>
